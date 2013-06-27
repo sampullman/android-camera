@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.threeDBJ.cameraAppLib.CameraActivity { <init>(...); }
+
+# view res/layout/main.xml #generated:6
+-keep class com.threeDBJ.cameraAppLib.CameraView { <init>(...); }
+

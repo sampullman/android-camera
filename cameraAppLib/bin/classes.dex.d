@@ -1,0 +1,25 @@
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes.dex : \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/org/opencv/R$attr.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/org/opencv/R$string.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/org/opencv/R.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/org/opencv/R$drawable.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/org/opencv/R$id.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/org/opencv/R$layout.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraView.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraBase.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraActivity$1.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/R$attr.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraBase$1.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/R$string.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/R.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraActivity.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/R$drawable.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraActivity$3.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/R$id.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraActivity$2.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/R$layout.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/BuildConfig.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraActivity$4.class \
+/home/sam/Desktop/git/android/cameraApp/cameraAppLib/bin/classes/com/threeDBJ/cameraAppLib/CameraActivity$1$1.class \
+/home/sam/Desktop/git/android/OpenCV-2.4.2-android-sdk/sdk/java/bin/classes.jar \
+/home/sam/android-sdk-linux/tools/support/annotations.jar \
